@@ -1,0 +1,1 @@
+{'id': 0, 'titulo': 'AAAAAAAAAAAAAAAA', 'autor': 'AAAAAAAAAAAAAAAAAA', 'isbn': '9876543210123', 'ano_publicacao': '1999', 'editora': 'aaaaaaa', 'categoria': 'aaaaaaaaaaa', 'genero': 'aaaaaaaa'}
